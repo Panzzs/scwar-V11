@@ -3,9 +3,9 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 // Other
-global.owner = ['6281215626270']
-global.premium = ['6281215626270']
-global.ownername = 'DenaraBot'
+global.owner = ['6288227758096']
+global.premium = ['6288227758096']
+global.ownername = 'CrashMaker'
 global.packname = 'DenaraBot??'
 global.author = 'WhatsApp 👿'
 global.sessionName = 'session'
